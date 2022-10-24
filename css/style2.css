@@ -1,0 +1,12 @@
+body{
+    background: url("/images/img1.jpg");
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.empty p{
+    background-color: rgb(0,0,0,.7);
+    color: white;
+    width:400px;
+    float:left;
+
+}
